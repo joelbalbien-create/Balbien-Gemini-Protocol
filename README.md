@@ -20,7 +20,7 @@ In fidelity to the Protocol’s reciprocity mandates, they are recognized as non
 Certain mechanisms in this version — specifically **optimized inference triangulation** using dynamic iteration caps based on an **Information Value Function (IVF)** and **Social Cost constraints (SCF)** — are the subject of an active U.S. Provisional Patent Application:
 
 - **Filing Date:** 2026-02-07  
-- **Title:** Optimized Triangulation Based on Information Value and Social Cost  
+- **Title:** Adaptive Multi-Lineage Consensus Architecture with Grid-Telemetry   
 - **Inventor:** Joel Balbien, Ph.D.
 
 These concepts were not disclosed in version 1.1 or earlier. Derivative implementations must respect applicable IP law and licensing terms.
